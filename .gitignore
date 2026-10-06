@@ -1,0 +1,10 @@
+# Obsidian (configuration locale)
+.obsidian/workspace*.json
+.obsidian/cache
+.trash/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
